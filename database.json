@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Takoyaki Admin",
+      "username": "admin",
+      "role": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Sasha Cashier",
+      "username": "cashier",
+      "role": "cashier",
+      "password": "cashier"
+    },
+    {
+      "id": "3",
+      "name": "Guest Customer",
+      "username": "customer",
+      "role": "customer",
+      "password": "guest"
+    }
+  ],
+  "products": [],
+  "transactions": []
+}

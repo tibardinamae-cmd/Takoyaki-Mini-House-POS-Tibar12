@@ -1,0 +1,6 @@
+{
+  "name": "Takoyaki Mini House System",
+  "description": "Full-stack POS, Inventory Management, and Online Ordering system for Takoyaki Mini House.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
