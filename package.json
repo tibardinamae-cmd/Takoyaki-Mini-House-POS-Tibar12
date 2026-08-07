@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "node server.js",
-    "build": "vite build && esbuild server.js --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
-    "start": "node dist/server.cjs",
-    "clean": "rm -rf dist database.json",
-    "lint": "tsc --noEmit"
+  "dev": "node server.js",
+  "build": "vite build && esbuild server.js --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
+  "start": "node dist/server.cjs",
+  "clean": "rm -rf dist database.json",
+  "lint": "tsc --noEmit"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
